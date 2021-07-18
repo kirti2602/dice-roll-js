@@ -1,0 +1,42 @@
+body{
+    text-align: center;
+}
+
+h1{
+    padding-top: 25px;
+}
+
+.playerName{
+    margin-top: 100px;
+    justify-content: center;
+    display: flex;
+}
+
+.pl1{
+    margin-right: 160px;
+    color: red;
+}
+
+.pl2{
+    
+    color: blueviolet;
+}
+
+.dice{
+    display: inline-block;
+    margin-top: 5px;
+}
+
+#image1{
+    
+    margin-right: 100px;
+    margin-left: 20px;
+}
+
+#image2{
+    margin-left: 20px;
+}
+
+.btn{
+    margin-top: 100px; 
+}
